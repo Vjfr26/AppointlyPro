@@ -1,0 +1,26 @@
+{
+  "name": "appointlypro",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vjfr26/AppointlyPro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vjfr26/AppointlyPro/issues"
+  },
+  "homepage": "https://github.com/Vjfr26/AppointlyPro#readme",
+  "devDependencies": {
+    "sass": "^1.97.3",
+    "vite": "^7.3.1"
+  }
+}
